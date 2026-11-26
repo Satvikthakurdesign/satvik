@@ -1,1 +1,3 @@
 Patient Admission: Ward A, Bed 12
+Patient Billing: Total Rs. 5000
+
